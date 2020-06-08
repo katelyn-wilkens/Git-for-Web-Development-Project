@@ -1,4 +1,4 @@
-    1. What is Semantic HTML? A: html that is being output on the screen. 
+    1. What is Semantic HTML? A: html that is being output on the screen
     2. What is HTML used for? A; It is the building blocks of a webpage.
     3. What is an attribute and where do we put it? A; an attribute is a special flag with tags. 
     4. What is the h1 tag used for? How many times should I use it on a page? A; it is used for a header, and yes you can, but you shouldn't. 
